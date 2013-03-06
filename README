@@ -1,1 +1,5 @@
 my C practice
+
+* /lib/cbuf - first in first out buffer with self maintained read/write positions.
+* /lib/mempool - memory pool for preallocted memories.
+* /test - all test codes
